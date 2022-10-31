@@ -1,0 +1,23 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-sushi-ichiban-prod-211915-authRole",
+            "UnauthRoleArn": "arn:aws:iam::820675472636:role/amplify-sushi-ichiban-prod-211915-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::820675472636:role/amplify-sushi-ichiban-prod-211915-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-sushi-ichiban-prod-211915-deployment",
+            "UnauthRoleName": "amplify-sushi-ichiban-prod-211915-unauthRole",
+            "StackName": "amplify-sushi-ichiban-prod-211915",
+            "StackId": "arn:aws:cloudformation:us-west-2:820675472636:stack/amplify-sushi-ichiban-prod-211915/869977a0-427a-11eb-82b7-0a838a473ab5",
+            "AmplifyAppId": "d1c2to05f0ynly"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1c2to05f0ynly",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}

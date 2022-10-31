@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Avocado Roll",
+    "price":"please call in",
+    "description": "Avocado, rice, seaweed"
+  },
+  {
+    "name": "Sake Roll",
+    "price":"please call in",
+    "description": "Salmon roll with seaweed outside"
+  },
+  {
+    "name": "Tekka Roll",
+    "price":"please call in",
+    "description": "Tuna roll with seaweed outside"
+  },
+  {
+    "name": "California Roll Maki",
+    "price":"please call in",
+    "description": "California roll with seaweed outside"
+  },
+  {
+    "name": "Kappa Roll",
+    "price":"please call in",
+    "description": "Cucumber roll with seaweed outside"
+  },
+  {}
+]

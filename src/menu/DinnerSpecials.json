@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Teriyaki Chicken Dinner (#401)",
+    "price":"please call in",
+    "description": "BBQ chicken glazed with teriyaki sauce"
+  },
+  {
+    "name": "Teriyaki Beef Dinner (#402)",
+    "price":"please call in",
+    "description": "pan fried sliced beef with teriyaki sauce"
+  },
+  {
+    "name": "Teriyaki Salmon Dinner (#403)",
+    "price":"please call in",
+    "description": "salmon fillet grilled to perfection"
+  },
+  {
+    "name": "Korean BBQ beef short ribs Dinner ",
+    "price":"please call in",
+    "description": "Korean-style bbq short ribs"
+  },
+  {
+    "name": "Ginger Chicken Dinner (#404)",
+    "price":"please call in",
+    "description": "deep fried shredded chicken with ginger sauce"
+  },
+  {
+    "name": "Chicken Teriyaki & Tempura (#406)",
+    "price":"please call in",
+    "description": "set of assorted tempura, chicken teriyaki"
+  },
+  {
+    "name": "Sushi & Tempura (#407)",
+    "price":"please call in",
+    "description": "set of assorted sushi, tempura"
+  },
+  {
+    "name": "Ginger Beef Dinner (#408)",
+    "price":"please call in",
+    "description": "deep fried shredded beef with ginger sauce"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Miso Soup",
+    "price":"please call in"
+  },
+  {
+    "name": "Wonton Soup",
+    "price":"please call in"
+  },
+  {
+    "name": "Chicken Egg-Drop Soup",
+    "price":"please call in"
+  },
+  {
+    "name": "Small Salad",
+    "price":"please call in",
+    "description": "mixed lectuce with carrot, purple cabbage, and house mayo sauce"
+  },
+  {
+    "name": "Seaweed salad",
+    "price":"please call in"
+  },
+  {
+    "name": "House Salad (#603)",
+    "price":"please call in",
+    "description": "mixed veggies with cucumber, avocado"
+  },
+  {
+    "name": "Endamame",
+    "price":"please call in",
+    "description": "green soy bean"
+  },
+  {
+    "name": "Agedashi Tofu",
+    "price":"please call in",
+    "description": "deep fried tofu with tempura sauce"
+  },
+  {
+    "name": "Gyoza (6pcs)",
+    "price":"please call in",
+    "description": "6 teppan Japanese beef dumpling, served with gyoza sauce "
+  },
+  {
+    "name": "Spicy Gyoza (6pcs) - #600",
+    "price":"please call in",
+    "description": "6 pieces of deep-fried spicy gyoza"
+  },
+  {
+    "name": "Takoyaki (5pcs)",
+    "price":"please call in",
+    "description": "deep fried octopus balls"
+  },
+  {
+    "name": "Ika Kaarage",
+    "price":"please call in",
+    "description": "deep fried, battered squids"
+  },
+  {
+    "name": "Chicken Kaarage",
+    "price":"please call in",
+    "description": "deep fried, Japanese styled battered chicken popcorn"
+  },
+  {
+    "name": "Chicken/Pork Katsu",
+    "price":"please call in",
+    "description": "Japanese battered chicken/pork, served with Tonkatsu sauce"
+  },
+  {
+    "name": "Creamcheese Wonton (10pcs)",
+    "price":"please call in",
+    "description": "10 pieces of creamcheese wonton /w wasabi sweet sauce"
+  },
+  {
+    "name": "Prawn Tempura (4pcs)",
+    "price":"please call in",
+    "description": "4 pcs of prawn tempura"
+  },
+  {
+    "name": "Yam Tempura",
+    "price":"please call in",
+    "description": "8 pcs of sweet potato tempura"
+  },
+  {
+    "name": "Vegetable Tempura",
+    "price":"please call in",
+    "description": "10 pcs of assorted veggies tempura"
+  },
+  {
+    "name": "Spring rolls (6pcs)",
+    "price":"please call in",
+    "description": "6 pcs of spring rolls"
+  },
+  {
+    "name": "Assorted Tempura",
+    "price":"please call in",
+    "description": "4pcs of shrimp and 10 pcs of veggies tempura"
+  },
+  {
+    "name": "Brocoli/Avocado/Pumpkin Tempura",
+    "price":"please call in",
+    "description": "8 pcs of either Brocoli or Avocado or Pumpkin tempura"
+  }
+]

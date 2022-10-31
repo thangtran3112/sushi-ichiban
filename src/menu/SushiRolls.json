@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Outsider Roll (#601)",
+    "price":"please call in",
+    "description": "tuna, salmon, tobiko, masago, avocado"
+  },
+  {
+    "name": "Rainbow Roll (#602)",
+    "price":"please call in",
+    "description": "tuna, salmon, tobiko, masago, avocado, ebi shrimp"
+  },
+  {
+    "name": "Prawn Tempura Roll (#603)",
+    "price":"please call in",
+    "description": "tempura prawn, imitation crab, meat, cucumber, mayo, avocado, masago"
+  },
+  {
+    "name": "Dynamite Roll (#611)",
+    "price":"please call in",
+    "description": "prawn tempura, tobiko, avocado inside, sesame seed on top"
+  },
+  {
+    "name": "Stampeder Roll (#604)",
+    "price":"please call in",
+    "description": "imitation crab meat, cucumber, ebi, salmon, avocado, with wasabi sauce"
+  },
+  {
+    "name": "California Roll with Masago",
+    "price":"please call in",
+    "description": "California roll with Masago outside"
+  },
+  {
+    "name": "California Roll with Sesame seeds",
+    "price":"please call in",
+    "description": "California roll with Sesame outside"
+  },
+  {
+    "name": "Alaska Roll (#609)",
+    "price":"please call in",
+    "description": "smoke salmon on top, imitation crab & avocado inside with sesame seed sauce"
+  },
+  {
+    "name": "Dragon Roll (#610)",
+    "price":"please call in",
+    "description": "prawn tempura, tobiko, cucumber inside, avocado, unagi on top"
+  },
+  {
+    "name": "Philadelphia Roll (#612)",
+    "price":"please call in",
+    "description": "cream cheese, cucumber roll, with smoked salmon on top, wasabi sauce"
+  },
+  {
+    "name": "White Dragon Roll (#618)",
+    "price":"please call in",
+    "description": "tempura style ebi special, cucumber, green onion"
+  },
+  {
+    "name": "Spicy Salmon Roll",
+    "price":"please call in",
+    "description": "avocado, cucumber, salmon with spicy sauce"
+  },
+  {
+    "name": "Spicy Tuna Roll",
+    "price":"please call in",
+    "description": "spicy marinated tuna, rice"
+  },
+  {
+    "name": "Ichiban House Roll",
+    "price":"please call in",
+    "description": "tempura prawn, salmon, tobiko, cucumber with avocado, spicy sauce & sesame"
+  },
+  {
+    "name": "Unagi Roll",
+    "price":"please call in",
+    "description": "bbq eel, avocado, cucumber"
+  },
+  {
+    "name": "Fitness Roll",
+    "price":"please call in",
+    "description": "romaine lettuce, cucumber, avocado with sesame on top"
+  },
+  {
+    "name": "Rocky Mountain Roll",
+    "price":"please call in",
+    "description": "salmon, cucumber, cream cheese inside, avocado on top with sweet sauce"
+  },
+  {
+    "name": "Rapture Roll (#614)",
+    "price":"please call in",
+    "description": "prawn tempura, tobiko, cucumber inside, wrapped with salmon, tuna, with unagi sauce &\n\t\t\t\t\t\t\t\tspicy sauce"
+  },
+  {
+    "name": "Mango Paradise (#615)",
+    "price":"please call in",
+    "description": "tempura prawn, salmon, tobiko, cucumber with avocado, spicy sauce & sesame seed on top\n\t\t\t\t\t\t\t"
+  },
+  {
+    "name": "Tempura California Roll (#621)",
+    "price":"please call in",
+    "description": "lightly battered and deep fried"
+  },
+  {
+    "name": "Black Dragon Roll (#617)",
+    "price":"please call in",
+    "description": "tempura style bbq eels, cucumber, green onion"
+  },
+  {}
+]

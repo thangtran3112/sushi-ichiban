@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Sushi (*)",
+    "description": "2 pcs outsider rolls, salmon tuna surf clam sushi"
+  },
+  {
+    "name": "Sashimi (*)",
+    "description": "2 salmon, 3 tuna, and 2 surf clam sashimi"
+  },
+  {
+    "name": "California roll topping /w masago",
+    "description": "Crab meat, avocado, and masago (fish eggs)"
+  },
+  {
+    "name": "California roll topping w/ sesame seeds",
+    "description": "Crab meat, avocado, and sesame seeds"
+  },
+  {
+    "name": "Spicy Salmon Rolls (*)",
+    "description": "avocado, cucumber, salmon topping, spicy mayo, sesame seed"
+  },
+  {
+    "name": "Spicy Tuna Rolls (*)",
+    "description": "spicy tuna, cucumber and sesame seeds"
+  },
+  {
+    "name": "Stampeder Rolls (*)",
+    "description": "Crabmeat, avocado, salmon & shrimp topping, mayo sauce, tobiko (fish eggs)"
+  },
+  {
+    "name": "Unagi Rolls (*)",
+    "description": "cucumber, avocado, bbq eels, unagi sauce, sesame seeds"
+  },
+  {
+    "name": "Dynamite Roll (*)",
+    "description": "shrimp tempura, tobiko (fish eggs), avocado, sesame seeds"
+  },
+  {
+    "name": "Red Dragon Rolls",
+    "description": "Shrimp tempura, tobiko, avocado, salmon topping, spicy mayo"
+  },
+  {
+    "name": "Tempura Cali Roll",
+    "description": "Crabmeat, avocado, spicy mayo, unagi sauce"
+  },
+  {
+    "name": "Black Dragon Rolls",
+    "description": "shrimp tempura, tobiko, avocado, bbq eels, unagi sauce"
+  },
+  {
+    "name": "Yellow Dragon Rolls",
+    "description": "shrimp tempura, tobiko, avocado, mango topping, mango sauce"
+  },
+  {
+    "name": "Teriyaki Chicken (*)",
+    "description": "bbq chicken, glazed with teriyaki sauce"
+  },
+  {
+    "name": "Teriyaki Beef (*)",
+    "description": "pan fried sliced beef with teriyaki sauce"
+  },
+  {
+    "name": "Tempura",
+    "description": "assorted tempura (shrimps & veggies) served with tempura sauce"
+  },
+  {
+    "name": "Ginger Chicken (*)",
+    "description": "Deep fried chicken with ginger sauce"
+  },
+  {
+    "name": "Spring Roll",
+    "description": "Deep fried roll (veggies wrapped with spring roll skin served with plum sauce)"
+  },
+  {
+    "name": "Gyoza",
+    "description": "6 pcs of Japanese styled ground beef dumplings, served with special gyoza sauce"
+  },
+  {
+    "name": "Port Katsu",
+    "description": "Panko pork with tonkatsu sauce"
+  },
+  {
+    "name": "Chicken Katsu",
+    "description": "Panko chicken with tonkatsu sauce"
+  },
+  {
+    "name": "Wasabi chicken karage",
+    "description": "deep fried battered chicken, topping with sweet & spicy wasabi sauce"
+  }
+]

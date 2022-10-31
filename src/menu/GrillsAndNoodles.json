@@ -1,0 +1,62 @@
+[
+  {
+    "name": "BBQ Short Ribs",
+   "price":"please call in",
+    "description": "Korean bbq short ribs"
+  },
+  {
+    "name": "Ebi Teppan (6pcs)",
+    "price":"please call in",
+    "description": "6 pcs of teppan shrimp skewers, /w teriyaki sauce"
+  },
+  {
+    "name": "Chicken Yakitori",
+    "price":"please call in",
+    "description": "4 pcs of Japanese styled skewer chicken"
+  },
+  {
+    "name": "BBQ Saba (#123A)",
+    "price":"please call in",
+    "description": "Bbq mackerel with ponzu sauce"
+  },
+  {
+    "name": "Ika Yaki - BBQ squid - #131A",
+    "price":"please call in",
+    "description": "bbq squid, glazed with teriyaki sauce"
+  },
+  {
+    "name": "BBQ Lamp Skewers (3pcs)",
+    "price":"please call in",
+    "description": "3 pcs of bbq lamb skewers"
+  },
+  {
+    "name": "Unagi Don",
+    "price":"please call in",
+    "description": "Bbq eels on rice"
+  },
+  {
+    "name": "Tonkatsu Don",
+    "price":"please call in",
+    "description": "Breaded pork, onion, egg, served with tonkatsu sauce on rice"
+  },
+  {
+    "name": "Chicken Yakisoba - #304",
+    "price":"please call in",
+    "description": "Chicken stirred fried noodles, yakisoba style"
+  },
+  {
+    "name": "Beef Yakisoba - #305",
+    "price":"please call in",
+    "description": "Beef stirred fried noodles, yakisoba style"
+  },
+  {
+    "name": "Unagi Fried Rice - #307",
+    "price":"please call in",
+    "description": "Fried rice with bbq eels"
+  },
+  {
+    "name": "Chicken Fried Rice - #308",
+    "price":"please call in",
+    "description": "Fried rice with chicken"
+  }
+]

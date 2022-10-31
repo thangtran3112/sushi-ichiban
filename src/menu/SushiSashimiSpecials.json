@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Sushi & Sashimi combo (#500)",
+    "price":"please call in",
+    "description": "varierty of salmon sashimi, tuna, surf clam, snapper, nigiri, 2 pcs outsider rolls."
+  },
+  {
+    "name": "Maki Combo (#501)",
+    "price":"please call in",
+    "description": "cali roll, salmon roll, avocado with kappa roll, 2 pcs of outsider roll"
+  },
+  {
+    "name": "Assorted Sushi (#502)",
+    "price":"please call in",
+    "description": "salmon 2, white tuna 2, ebi shrimps 1, 2 red tuna, special scallop 1, cali roll 1, 2 pcs of outsider rolls."
+  },
+  {
+    "name": "Assorted Sashimi (#503)",
+    "price":"please call in",
+    "description": "salmon 3, white tuna 3, red tuna 3, surf clam 3, scallop 2"
+  },
+  {
+    "name": "Salmon Sashimi - 6pcs (#510)",
+    "price":"please call in",
+    "description": "6 pcs salmon sashimi"
+  },
+  {
+    "name": "White Tuna Sashimi - 6pcs (#519)",
+    "price":"please call in",
+    "description": "6 pcs of white tuna sashimi"
+  },
+  {
+    "name": "Tuna & Salmon Sashimi",
+    "price":"please call in",
+    "description": "3 pcs of white tuna sashimi & 3 pcs of salmon sashimi"
+  },
+  {
+    "name": "Red Tuna Sashimi - 6pcs (#513)",
+    "price":"please call in",
+    "description": "6 pcs of red tuna sashimi"
+  },
+  {
+    "name": "Spicy Salmon Sashimi - 6pcs (#515)",
+    "price":"please call in",
+    "description": "6 pcs of spicy salmon sashimi"
+  },
+  {
+    "name": "Smoked Salmon Sashimi - 6pcs (#518)",
+    "price":"please call in",
+    "description": "6 pcs of smoked salmon sashimi"
+  },
+  {
+    "name": "Toro Sashimi - 6pcs",
+    "price":"please call in",
+    "description": "6 pcs tuna belly sashimi"
+  },
+  {
+    "name": "Spicy Toro Sashimi - 6pcs",
+    "price":"please call in",
+    "description": "6 pcs of spicy tuna belly sashimi"
+  },
+  {
+    "name": "Hamachi Sashimi - 6pcs",
+    "price":"please call in",
+    "description": "6 pcs hamachi sashimi"
+  },
+  {
+    "name": "Spicy Tuna Sashimi - 6pcs",
+    "price":"please call in",
+    "description": "6 pcs of spicy white tuna sashimi"
+  },
+  {
+    "name": "Dinner Boat 4A (for 2 people) - (#523A)",
+    "price":"please call in",
+    "description": "sushi, sashimi, surf clam, outsider roll"
+  },
+  {
+    "name": "Dinner Boat 4B (for 2 people)",
+    "price":"please call in",
+    "description": "tempura, chicken katsu, soup, salad, rice"
+  },
+  {
+    "name": "Special Dinner Boat 6A (for 3 people) - (#524A)",
+    "price":"please call in",
+    "description": "set of salmon, tuna, surf clam nigiri, outsider roll, etc."
+  },
+  {
+    "name": "Special Dinner Boat 6B (for 3 people)",
+    "price":"please call in",
+    "description": "tempura, chicken teriyaki, beef teriyaki, springrolls, gyoza"
+  },
+  {
+    "name": "Love boat (#504)",
+    "price":"please call in",
+    "description": "salmon maki, cali roll, sesame cali roll, 4pcs outsider roll, tuna salmon surf clam snapper sashimi, 2 salmon 2 tuna 2 ebi nigiri"
+  },
+  {
+    "name": "Deluxe Boat (#505)",
+    "price":"please call in",
+    "description": "outsider roll, sesame cali roll, salmon tuna sashimi, salmon tuna nigiri, gyoza 4, shrimp and yam tempura, 4 chicken skewers"
+  },
+  {
+    "name": "Dinner for Two (#506)",
+    "price":"please call in",
+    "description": "salmon tuna sashimi, nigiri, outsider roll, cali roll, ebi special nigiri 2"
+  },
+  {
+    "name": "Dinner for Four (#507)",
+    "price":"please call in",
+    "description": "cali roll, sesame cali roll, salmon maki, outsider roll 8pcs, 4 special ebi, 4 salmon 4 tuna nigiri, 4 salmon 4 tuna sashimi"
+  },
+  {
+    "name": "Salmon Lover Combo (#508)",
+    "price":"please call in",
+    "description": "sashimi x6, sushi x6, salmon with avocado roll, spicy salmon roll"
+  },
+  {
+    "name": "Ichiban Boat of Maki Rolls (#509)",
+    "price":"please call in",
+    "description": "fitness roll, tempura roll, cali roll, outsider roll, salmon roll, spicy tuna roll, avocado roll"
+  },
+  {
+    "name": "Roll Group - 70 pcs (#521)",
+    "price":"please call in",
+    "description": "70 pcs of variety types of roll"
+  },
+  {
+    "name": "Sushi Group - 48 pcs (#522)",
+    "price":"please call in",
+    "description": "48 pcs of salmon sushi, scallop nigiri, etc."
+  },
+  {
+    "name": "Dinner Boat For Four (A+B) (#523)",
+    "price":"please call in",
+    "description": "set of chicken katsu, shirmp tempura, Sushi & Sashimi"
+  },
+  {
+    "name": "Special Dinner Boat for 6 (A+B) (#524)",
+    "price":"please call in",
+    "description": "set of sushi, sashimi, tempura, chicken, beef, spring roll, gyoza"
+  }
+]
